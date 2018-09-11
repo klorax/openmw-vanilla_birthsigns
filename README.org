@@ -1,0 +1,98 @@
+#+title: Vanilla Birthsigns
+#+author: Klorax
+#+html: <p align="center"><img src="res/images/klorax.png" /></p>
+
+#+html: <p align="center"><img src="res/images/logo.png" /></p>
+
+* Vanilla Birthsigns for OpenMW by Klorax
+  /Vanilla Birthsigns for OpenMW by Klorax/ changes the behavior of the
+  attribute enhancing birthsigns (the Lady, the Lover, and the Steed) to
+  match that of original Morrowind.
+
+  This is accomplished by replacing the constant magic effect with base
+  attributes upon finishing character generation (i.e., when leaving the
+  census office building). When this happens the player is notified. Thus you
+  need to start a new game to use this addon.
+
+  In original Morrowind these constant magic effects for attributes are
+  treated as base attributes. This is inconsistent to any other constant magic
+  effect (i.e., spell or enchant) for attributes. OpenMW removes this
+  inconsistency, which is good IMHO, but this makes the original birthsigns
+  behave differently (mostly less powerful), and this addon aims to fix this.
+
+  This means that the provided endurance will now count for level up health.
+  All relevant attributes (agility, endurance, personality, and speed) will
+  now count towards skill level caps for governed skills. The attribute base
+  values (through leveling) will not be able to get past 100.
+
+* Installation
+  Please follow the steps [[https://openmw.readthedocs.io/en/stable/reference/modding/mod-install.html][here]].
+
+* Technical Details
+  This addon just adds one global script, one start script, and one global
+  variable. Thus no birthsign, race, the character generation, or anything
+  else has been modified, that could cause incompatibilities with other
+  addons.
+
+  The term "addon" is used as a synonym to "mod" and "plugin".
+
+* Change Log
+  Please see the [[https://github.com/klorax/openmw-vanilla_birthsigns/releases][releases]] for a detailed change log.
+  
+  | Version | Comment         |
+  |---------+-----------------|
+  | v1.0.0  | Initial release |
+
+* Contributing
+  If you find any bugs, then please create an issue in the GitHub repository
+  (following the prefix convention below).
+   
+** Prefix Convention
+   The prefix is used in the *Issue* header and *Commit* message like so:
+   ~Prefix [#ISSUE]: Short message~. They are symmetric to ease the connection
+   between *Issues*, *Commits*, and *Pull Requests*.
+
+   | Prefix      | Issue                        | Commit                |
+   |-------------+------------------------------+-----------------------|
+   | Bug         | Bug fix request (bug report) | Bug fix and test done |
+   | Doc         | Documentation request        | Documentation done    |
+   | Edit        | Edit request                 | Edit done             |
+   | Enhancement | Enhancement request          | Enhancement done      |
+   | Feature     | Feature request              | Feature and test done |
+   | Refactor    | Refactoring request          | Refactoring done      |
+   | Skeleton    | Skeleton file request        | Skeleton file added   |
+
+   Most of them should be self explanatory but here are some clarifications:
+
+   - ~Edit~ is used for minor edits (e.g., rename, move, typo fix).
+   - ~Enhancement~ is used for larger edits (e.g., adding helper methods, not
+     enough to warrant a feature).
+   - ~Skeleton~ is for [[https://en.wikipedia.org/wiki/Skeleton_(computer_programming)][skeleton]] files which are just empty outlines of a Class
+     to get the ball rolling.
+     
+* License
+  #+BEGIN_SRC org
+    ;    Vanilla Birthsigns --- Original birthsign behavior in OpenMW.
+
+    ;    Copyright © 2018 Klorax.
+
+    ;    This file is part of Vanilla Birthsigns.
+    ;
+    ;    Vanilla Birthsigns is free software: you can redistribute it and/or
+    ;    modify it under the terms of the GNU General Public License as published
+    ;    by the Free Software Foundation, either version 3 of the License, or
+    ;    (at your option) any later version.
+    ;
+    ;    Vanilla Birthsigns is distributed in the hope that it will be useful,
+    ;    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    ;    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    ;    GNU General Public License for more details.
+    ;
+    ;    You should have received a copy of the GNU General Public License along
+    ;    with Vanilla Birthsigns.  If not, see <http://www.gnu.org/licenses/>.
+  #+END_SRC
+
+  For every edited file, please append copyright statements and authors below
+  existing. Please update any time stamps as appropriate.
+
+#+html: <p align="center"><img src="res/images/license.png" /></p>

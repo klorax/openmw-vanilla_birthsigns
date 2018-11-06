@@ -71,21 +71,14 @@
 * License
   Copyright © 2018 Klorax.
 
+  Vanilla Birthsigns is distributed in the hope that it will be useful, but
+  WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or
+  FITNESS FOR A PARTICULAR PURPOSE.
+
 ** Source Code
-   #+BEGIN_SRC org
-     ;    Vanilla Birthsigns is free software: you can redistribute it and/or
-     ;    modify it under the terms of the GNU General Public License as published
-     ;    by the Free Software Foundation, either version 3 of the License, or
-     ;    (at your option) any later version.
-     ;
-     ;    Vanilla Birthsigns is distributed in the hope that it will be useful,
-     ;    but WITHOUT ANY WARRANTY; without even the implied warranty of
-     ;    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-     ;    GNU General Public License for more details.
-     ;
-     ;    You should have received a copy of the GNU General Public License along
-     ;    with Vanilla Birthsigns.  If not, see <http://www.gnu.org/licenses/>.
-   #+END_SRC
+   Files that are source code in this work are licensed under the [[http://www.gnu.org/licenses/][GNU General
+   Public License]] as published by the Free Software Foundation, either version
+   3 of the License, or (at your option) any later version.
 
    For every edited file, please append copyright statements and authors below
    existing. Please update any time stamps as appropriate.
@@ -93,4 +86,7 @@
    #+html: <p align="center"><img src="res/images/license.png" /></p>
 
 ** Other Files
-   #+html: <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />Files that are not source code in this work are licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>.
+   Files that are not source code in this work are licensed under a [[http://creativecommons.org/licenses/by-nc-nd/4.0/][Creative
+   Commons Attribution-NonCommercial-NoDerivatives 4.0 International License]].
+
+   #+html: <p align="center"><a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a></p>

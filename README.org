@@ -73,8 +73,8 @@
     Copyright © 2018 Klorax.
 
     Vanilla Birthsigns is distributed in the hope that it will be useful, but
-    WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or
-    FITNESS FOR A PARTICULAR PURPOSE.
+    WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY
+    or FITNESS FOR A PARTICULAR PURPOSE.
   #+END_EXAMPLE
 
 ** Source Code

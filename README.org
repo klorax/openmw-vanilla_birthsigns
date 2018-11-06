@@ -1,7 +1,5 @@
 #+title: Vanilla Birthsigns
 #+author: Klorax
-#+html: <p align="center"><img src="res/images/klorax.png" /></p>
-
 #+html: <p align="center"><img src="res/images/logo.png" /></p>
 
 * Vanilla Birthsigns for OpenMW by Klorax
@@ -10,19 +8,19 @@
   match that of original Morrowind.
 
   This is accomplished by replacing the constant magic effect with base
-  attributes upon finishing character generation (i.e., when leaving the
-  census office building). When this happens the player is notified. Thus you
-  need to start a new game to use this addon.
+  attributes upon finishing character generation (i.e., when leaving the census
+  office building).  When this happens the player is notified. Thus you need to
+  start a new game to use this addon.
 
-  In original Morrowind these constant magic effects for attributes are
-  treated as base attributes. This is inconsistent to any other constant magic
-  effect (i.e., spell or enchant) for attributes. OpenMW removes this
-  inconsistency, which is good IMHO, but this makes the original birthsigns
-  behave differently (mostly less powerful), and this addon aims to fix this.
+  In original Morrowind these constant magic effects for attributes are treated
+  as base attributes.  This is inconsistent to any other constant magic effect
+  (i.e., spell or enchant) for attributes.  OpenMW removes this inconsistency,
+  which is good IMHO, but this makes the original birthsigns behave differently
+  (mostly less powerful), and this addon aims to fix this.
 
   This means that the provided endurance will now count for level up health.
-  All relevant attributes (agility, endurance, personality, and speed) will
-  now count towards skill level caps for governed skills. The attribute base
+  All relevant attributes (agility, endurance, personality, and speed) will now
+  count towards skill level caps for governed skills.  The attribute base
   values (through leveling) will not be able to get past 100.
 
 * Installation
@@ -30,9 +28,8 @@
 
 * Technical Details
   This addon just adds one global script, one start script, and one global
-  variable. Thus no birthsign, race, the character generation, or anything
-  else has been modified, that could cause incompatibilities with other
-  addons.
+  variable.  Thus no birthsign, race, the character generation, or anything
+  else has been modified, that could cause incompatibilities with other addons.
 
   The term "addon" is used as a synonym to "mod" and "plugin".
 
@@ -49,9 +46,9 @@
   (following the prefix convention below).
    
 ** Prefix Convention
-   The prefix is used in the *Issue* header and *Commit* message like so:
-   ~Prefix [#ISSUE]: Short message~. They are symmetric to ease the connection
-   between *Issues*, *Commits*, and *Pull Requests*.
+   The prefix is used in the *Issue* header: ~PREFIX: Short message~, and the
+   *Commit* message: ~PREFIX [#ISSUE]: Short message~.  They are symmetric to
+   ease the workflow between *Issues*, *Commits*, and *Pull Requests*.
 
    | Prefix      | Issue                        | Commit                |
    |-------------+------------------------------+-----------------------|
@@ -72,28 +69,28 @@
      to get the ball rolling.
      
 * License
-  #+BEGIN_SRC org
-    ;    Vanilla Birthsigns --- Original birthsign behavior in OpenMW.
+  Copyright © 2018 Klorax.
 
-    ;    Copyright © 2018 Klorax.
+** Source Code
+   #+BEGIN_SRC org
+     ;    Vanilla Birthsigns is free software: you can redistribute it and/or
+     ;    modify it under the terms of the GNU General Public License as published
+     ;    by the Free Software Foundation, either version 3 of the License, or
+     ;    (at your option) any later version.
+     ;
+     ;    Vanilla Birthsigns is distributed in the hope that it will be useful,
+     ;    but WITHOUT ANY WARRANTY; without even the implied warranty of
+     ;    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+     ;    GNU General Public License for more details.
+     ;
+     ;    You should have received a copy of the GNU General Public License along
+     ;    with Vanilla Birthsigns.  If not, see <http://www.gnu.org/licenses/>.
+   #+END_SRC
 
-    ;    This file is part of Vanilla Birthsigns.
-    ;
-    ;    Vanilla Birthsigns is free software: you can redistribute it and/or
-    ;    modify it under the terms of the GNU General Public License as published
-    ;    by the Free Software Foundation, either version 3 of the License, or
-    ;    (at your option) any later version.
-    ;
-    ;    Vanilla Birthsigns is distributed in the hope that it will be useful,
-    ;    but WITHOUT ANY WARRANTY; without even the implied warranty of
-    ;    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-    ;    GNU General Public License for more details.
-    ;
-    ;    You should have received a copy of the GNU General Public License along
-    ;    with Vanilla Birthsigns.  If not, see <http://www.gnu.org/licenses/>.
-  #+END_SRC
+   For every edited file, please append copyright statements and authors below
+   existing. Please update any time stamps as appropriate.
 
-  For every edited file, please append copyright statements and authors below
-  existing. Please update any time stamps as appropriate.
+   #+html: <p align="center"><img src="res/images/license.png" /></p>
 
-#+html: <p align="center"><img src="res/images/license.png" /></p>
+** Other Files
+   #+html: <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />Files that are not source code in this work are licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>.

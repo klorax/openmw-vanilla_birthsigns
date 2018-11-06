@@ -33,8 +33,8 @@
 
   The term "addon" is used as a synonym to "mod" and "plugin".
 
-* Change Log
-  Please see the [[https://github.com/klorax/openmw-vanilla_birthsigns/releases][releases]] for a detailed change log.
+* Changelog
+  Please see the [[https://github.com/klorax/openmw-vanilla_birthsigns/releases][releases]] for a detailed changelog.
   
   | Version | Comment                                                       |
   |---------+---------------------------------------------------------------|

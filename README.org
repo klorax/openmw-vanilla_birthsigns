@@ -78,14 +78,14 @@
   #+END_EXAMPLE
 
 ** Source Code
-   #+BEGIN_EXAMPLE
+   #+BEGIN_SRC org
      Files that are source code in this work are licensed under the [[http://www.gnu.org/licenses/][GNU General
      Public License]] as published by the Free Software Foundation, either version
      3 of the License, or (at your option) any later version.
 
      For every edited file, append copyright statements and authors below
      existing.  Update any time stamps as appropriate.
-   #+END_EXAMPLE
+   #+END_SRC
 
    #+html: <p align="center"><img src="res/images/gpl3.png" /></p>
 

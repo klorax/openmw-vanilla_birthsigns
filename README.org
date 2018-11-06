@@ -39,9 +39,10 @@
 * Change Log
   Please see the [[https://github.com/klorax/openmw-vanilla_birthsigns/releases][releases]] for a detailed change log.
   
-  | Version | Comment         |
-  |---------+-----------------|
-  | v1.0.0  | Initial release |
+  | Version | Comment                                                       |
+  |---------+---------------------------------------------------------------|
+  | v1.0.1  | Bug: Remove reapplied original birthsign abilities after load |
+  | v1.0.0  | Initial release                                               |
 
 * Contributing
   If you find any bugs, then please create an issue in the GitHub repository

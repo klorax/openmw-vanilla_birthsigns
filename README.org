@@ -69,13 +69,13 @@
      to get the ball rolling.
      
 * License
-  #+BEGIN_QUOTE
+  #+BEGIN_EXAMPLE
   Copyright © 2018 Klorax.
 
   Vanilla Birthsigns is distributed in the hope that it will be useful, but
   WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or
   FITNESS FOR A PARTICULAR PURPOSE.
-  #+END_QUOTE
+  #+END_EXAMPLE
 
 ** Source Code
    #+BEGIN_QUOTE

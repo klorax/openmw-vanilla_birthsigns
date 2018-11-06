@@ -1,8 +1,8 @@
 #+title: Vanilla Birthsigns
 #+author: Klorax
-#+html: <p align="center"><img src="res/images/logo.png" /></p>
+#+html: <p align="center"><a href="https://www.nexusmods.com/morrowind/mods/46033"><img src="res/images/logo_vanilla_birthsigns.png" /></a></p>
 
-* Vanilla Birthsigns for OpenMW by Klorax
+* 🕹 Vanilla Birthsigns for OpenMW by Klorax 🍦
   /Vanilla Birthsigns for OpenMW by Klorax/ changes the behavior of the
   attribute enhancing birthsigns (the Lady, the Lover, and the Steed) to
   match that of original Morrowind.

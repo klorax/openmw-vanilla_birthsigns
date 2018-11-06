@@ -70,29 +70,29 @@
      
 * License
   #+BEGIN_EXAMPLE
-  Copyright © 2018 Klorax.
+    Copyright © 2018 Klorax.
 
-  Vanilla Birthsigns is distributed in the hope that it will be useful, but
-  WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or
-  FITNESS FOR A PARTICULAR PURPOSE.
+    Vanilla Birthsigns is distributed in the hope that it will be useful, but
+    WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or
+    FITNESS FOR A PARTICULAR PURPOSE.
   #+END_EXAMPLE
 
 ** Source Code
-   #+BEGIN_QUOTE
-   Files that are source code in this work are licensed under the [[http://www.gnu.org/licenses/][GNU General
-   Public License]] as published by the Free Software Foundation, either version
-   3 of the License, or (at your option) any later version.
+   #+BEGIN_EXAMPLE
+     Files that are source code in this work are licensed under the [[http://www.gnu.org/licenses/][GNU General
+     Public License]] as published by the Free Software Foundation, either version
+     3 of the License, or (at your option) any later version.
 
-   For every edited file, append copyright statements and authors below
-   existing.  Update any time stamps as appropriate.
-   #+END_QUOTE
+     For every edited file, append copyright statements and authors below
+     existing.  Update any time stamps as appropriate.
+   #+END_EXAMPLE
 
    #+html: <p align="center"><img src="res/images/gpl3.png" /></p>
 
 ** Other Files
-   #+BEGIN_QUOTE
-   Files that are not source code in this work are licensed under a [[http://creativecommons.org/licenses/by-nc-nd/4.0/][Creative
-   Commons Attribution-NonCommercial-NoDerivatives 4.0 International License]].
-   #+END_QUOTE
+   #+BEGIN_EXAMPLE
+     Files that are not source code in this work are licensed under a [[http://creativecommons.org/licenses/by-nc-nd/4.0/][Creative
+     Commons Attribution-NonCommercial-NoDerivatives 4.0 International License]].
+   #+END_EXAMPLE
 
    #+html: <p align="center"><a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a></p>

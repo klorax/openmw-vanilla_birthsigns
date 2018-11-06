@@ -1,6 +1,6 @@
 #+title: Vanilla Birthsigns
 #+author: Klorax
-#+html: <p align="center"><a href="https://www.nexusmods.com/morrowind/mods/46033"><img src="res/images/logo_vanilla_birthsigns.png" /></a></p>
+#+html: <p align="center"><a href="https://www.nexusmods.com/morrowind/mods/46033"><img src="res/images/klorax.openmw.vanilla_birthsigns.logo_512.png" /></a></p>
 
 * 🕹 Vanilla Birthsigns for OpenMW by Klorax 🍦
   /Vanilla Birthsigns for OpenMW by Klorax/ changes the behavior of the
